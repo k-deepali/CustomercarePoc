@@ -1,0 +1,3 @@
+INSERT INTO `customer_care`.`company` (`id`, `name`, `city`) VALUES ('abc', 'agile', 'pune');
+INSERT INTO `customer_care`.`user` (`id`, `company_id`, `first_name`, `last_name`, `email`, `username`, `password`, `phone_number`, `created_at`, `updated_at`) VALUES ('1', 'abc', 'Admin', 'Admin', 'admin@gmail.com', 'admin', '$2a$10$.TaNo5B7M1Xxv0E4aKvC6eeEjwo91ax6Iu5/WAn1fB7ZRwnsFo9Se', '7845662233', '2023-06-26 11:17:25', '2023-06-26 11:17:25');
+insert into user_role values(1,1);

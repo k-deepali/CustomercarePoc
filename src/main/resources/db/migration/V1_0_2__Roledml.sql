@@ -1,0 +1,2 @@
+INSERT INTO `role` (`id`, `name`, `created_at`, `updated_at`) VALUES ('1', 'Super Admin', '2023-06-13 00:00:00', '2023-02-15 00:00:00');
+INSERT INTO `role` (`id`, `name`, `created_at`, `updated_at`) VALUES ('2', 'Staff Admin', '2023-02-15 00:00:00', '2023-02-15 00:00:00');
